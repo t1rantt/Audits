@@ -1,3 +1,3 @@
 # Audits
 
-Past audits which has been patched.
+Personal Work. All audits uploaded in this repository have been notified and patched.
